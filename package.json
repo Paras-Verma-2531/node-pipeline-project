@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js",
+    "start":"echo server starts",
     "build":"echo building package"
   },
   "keywords": [],
